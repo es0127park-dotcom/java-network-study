@@ -1,4 +1,4 @@
-package com.mtcoding;
+package com.mtcoding.coolsms;
 
 import com.solapi.sdk.SolapiClient;
 import com.solapi.sdk.message.exception.SolapiMessageNotReceivedException;
